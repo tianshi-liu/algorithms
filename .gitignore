@@ -1,7 +1,7 @@
 trial/*
 
 # vscode json
-*.vscode/*
+.vscode/*
 
 # compiled object files
 *.o
