@@ -1,0 +1,10 @@
+trial/*
+
+# vscode json
+*.vscode/*
+
+# compiled object files
+*.o
+
+# executables
+*.out
